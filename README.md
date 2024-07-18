@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YachaTree&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"  width="41%"/> ![GitHub Streak](https://streak-stats.demolab.com/?user=YachaTree&theme=dracula&card_width=50%)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YachaTree&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YachaTree&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YachaTree&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YachaTree&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YachaTree&theme=2077&utcOffset=8)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YachaTree&theme=dracula&show_icons=true" width="41%" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YachaTree&theme=dracula)
 
 
 <div align="center">
