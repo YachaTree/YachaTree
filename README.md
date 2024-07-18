@@ -2,10 +2,8 @@
 
 
 <div align="center">
-
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=woguq92](https://solved.ac/woguq92)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=woguq92)](https://solved.ac/woguq92)
 </div>
 
 
