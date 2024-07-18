@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/mysql-red.svg?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff" />
 </div>
