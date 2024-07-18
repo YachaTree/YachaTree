@@ -3,7 +3,7 @@
 
 <div align="center">
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woguq92)](https://solved.ac/woguq92)
+프로필](http://mazassumnida.wtf/api/v2/generate badge?boj=woguq92)](https://solved.ac/woguq92)
 </div>
 
 <!--내용 부분-->
