@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgom93)](https://solved.ac/parkgom93)
+</div>
+
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=woguq92](https://solved.ac/woguq92)
+</div>
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
