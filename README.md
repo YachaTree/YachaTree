@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=ffffff" />
   
+  <img src="https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=java&logoColor=ffffff" />
 </div>
 
 <br>
