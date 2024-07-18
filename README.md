@@ -3,11 +3,6 @@
 
 <div align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgom93)](https://solved.ac/parkgom93)
-</div>
-
-<div align="center">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=woguq92](https://solved.ac/woguq92)
