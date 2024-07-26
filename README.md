@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jwt-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Query DSL-669DF6.svg?style=for-the-badge&logo=Query DSL&logoColor=ffffff" />
 </div>
 
