@@ -33,17 +33,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Query DSL-669DF6.svg?style=for-the-badge&logo=Query DSL&logoColor=ffffff" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/mysql-red.svg?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/mysql-red.svg?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 </div>
 
 <br>
