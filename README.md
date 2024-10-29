@@ -43,8 +43,6 @@ My Skills:
   <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
 **Tools**
