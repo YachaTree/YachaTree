@@ -12,49 +12,22 @@
 
 My Skills:
 
-**Language**
+**Skills**
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat" />
-</p>
+<div align="center">
+  
+|카테고리|기술 스택|
+|:---:|:---|
+|Language|![Java](https://img.shields.io/badge/Java-007396?style=flat)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)|
+|Framework|![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp; ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp; ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=black)&nbsp; ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)|
+|DataBase|![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)|
+|Cloud|![AWS ec2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)&nbsp; ![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)&nbsp; ![AWS RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)|
+|Collaboration|![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)|
+|Back-End Skills|![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=flat)&nbsp; ![DATA JPA](https://img.shields.io/badge/DATA_JPA-AA344D?style=flat)&nbsp; ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)&nbsp; ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)&nbsp; ![JPQL](https://img.shields.io/badge/JPQL-46C3D0?style=flat)&nbsp; ![WenClient](https://img.shields.io/badge/WebClient-FECC00?style=flat)&nbsp; ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp; ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)&nbsp; ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white)&nbsp; ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)|
 
-<picture>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YachaTree&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Streak" align=right /></a>
-</picture>
+</div>
 
-**Framework**
-
-<p>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-</p>
-
-**DataBase**
-
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
-**DevOps**
-
-<p>
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-</p>
-
-**Tools**
-
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat&logo=apple&logoColor=white" />
-  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-</p>
+<br />
 
 **Now**
 
