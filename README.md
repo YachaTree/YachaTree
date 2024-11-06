@@ -40,7 +40,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE"><b>CourseMaker</b></a></td>
+      <td><a href="https://github.com/course-maker/Course-Maker-BE"><b>CourseMaker</b></a></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
