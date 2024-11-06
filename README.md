@@ -10,9 +10,8 @@
 
 - Metaverse Academy(2024.06 ~ )
 
-My Skills:
 
-**Skills**
+### Skills
 
 <div align="center">
   
