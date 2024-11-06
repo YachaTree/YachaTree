@@ -12,9 +12,7 @@
 
 
 ### Skills
-
-<div align="center">
-  
+<div align="center">  
 |카테고리|기술 스택|
 |:---:|:---|
 |Language|![Java](https://img.shields.io/badge/Java-007396?style=flat)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)|
