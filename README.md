@@ -7,7 +7,7 @@
 
 
 ## Bootcamp
-- Metaverse Academy(2024.06 ~ )
+- Metaverse Academy(2024.06 ~ 2024.11)
 
 
 ## Skills
