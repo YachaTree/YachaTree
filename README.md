@@ -73,9 +73,9 @@
   <tbody>
     <tr>
       <td><a href=https://github.com/course-maker/Course-Maker-BE target=_blank><b>CourseMaker</b></a></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Course-Maker-BE?style=flat&labelColor=343b41"></td>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></td>
+      <td><a href="https://github.com/course-maker/Course-Maker-BE" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
     </tr>
     <tr>
       <td><a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE target=_blank><b>VoiceTuner</b></a></td>
