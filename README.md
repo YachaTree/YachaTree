@@ -3,7 +3,7 @@
 
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YachaTree&theme=vue&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak" align="center"/>
+    <img src="https://streak-stats.demolab.com?user=YachaTree&theme=vue&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak"/>
   </a>
 
 
