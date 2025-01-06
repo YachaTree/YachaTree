@@ -67,7 +67,7 @@
       <td><b>🎁 Projects</b></td>
       <td><b>👥 People</b></td>
       <td><b>🚀 Create At</b></td>
-      <td><b>🪂 Last Active At</b></td>
+      <td><b>💡 Last Commit</b></td>
     </tr>
   </thead>
   <tbody>
@@ -75,13 +75,13 @@
       <td><a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE target=_blank><b>VoiceTuner</b></a></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></td>
       <td>09/06/2024</td>
-      <td>09/25/2024</td>
+      <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></a></td>
     </tr>
     <tr>
       <td><a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT?style=flat&labelColor=343b41"></td>
       <td>07/12/2024</td>
-      <td>07/30/2024</td>
+      <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td>
     </tr>
   </tbody>
 </table>
