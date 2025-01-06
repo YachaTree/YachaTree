@@ -80,7 +80,7 @@
     <tr>
       <td><a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT?style=flat&labelColor=343b41"></td>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Create At" src="https://img.shields.io/github/create-at/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td>
     </tr>
   </tbody>
