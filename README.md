@@ -45,18 +45,6 @@
       <td><a href="https://github.com/course-maker/Course-Maker-BE-V2/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/course-maker/Course-Maker-BE-V2?style=flat&labelColor=343b41"></a></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE-V2/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/course-maker/Course-Maker-BE-V2?style=flat&labelColor=343b41"></a></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd"><b>FootLog</b></a></td>
-      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End"><b>LoveForest</b></a></td>
-      <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></a></td>
-    </tr>
   </tbody>
 </table>
 
@@ -72,6 +60,18 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href=https://github.com/MTVS-Last-Collaboration/Back-End target=_blank><b>LoveForest</b></a></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></td>
+      <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></a></td>
+    </tr>
+    <tr>
+      <td><a href=https://github.com/yourfootmyfoot/Footlog-BackEnd target=_blank><b>FootLog</b></a></td>
+      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></td>
+      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
+    </tr>
     <tr>
       <td><a href=https://github.com/course-maker/Course-Maker-BE target=_blank><b>CourseMaker</b></a></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></td>
