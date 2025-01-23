@@ -2,7 +2,7 @@
 # YachaTree 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=YachaTree.readme)
 
 
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://streak-stats.demolab.com?user=YachaTree&theme=vue&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak"/>
   </a>
 
