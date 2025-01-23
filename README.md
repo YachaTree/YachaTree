@@ -46,6 +46,14 @@
       <td><a href="https://github.com/course-maker/Course-Maker-BE-V2/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/course-maker/Course-Maker-BE-V2?style=flat&labelColor=343b41"></a></td>
     </tr>
   </tbody>
+   <tbody>
+    <tr>
+      <td><a href="https://github.com/YachaTree/Community-Feed"><b>Community-Feed</b></a></td>
+      <td><a href="https://github.com/YachaTree/Community-Feed/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/YachaTree/Community-Feed?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/YachaTree/Community-Feed/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YachaTree/Community-Feed?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/YachaTree/Community-Feed/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/YachaTree/Community-Feed?style=flat&labelColor=343b41"></a></td>
+    </tr>
+  </tbody>
 </table>
 
 ## History
