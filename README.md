@@ -3,6 +3,8 @@
 
 
 
+  <img src="https://streak-stats.demolab.com?user=YachaTree&theme=vue&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak"/>
+
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=YachaTree&theme=microsoft&locale=ko)](https://git.io/streak-stats)
 
