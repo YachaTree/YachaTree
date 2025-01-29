@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=YachaTree's%20github&section=header&textBg=false&fontSize=60&fontAlign=70&fontAlignY=31&animation=fadeIn)
 # YachaTree 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=YachaTree.readme)
 
-
-
-  <img src="https://streak-stats.demolab.com?user=YachaTree&theme=vue&hide_border=true&border_radius=6.1&short_numbers=true" alt="GitHub Streak"/>
-
-
   [![GitHub Streak](https://streak-stats.demolab.com?user=YachaTree&theme=microsoft&locale=ko)](https://git.io/streak-stats)
 
 
