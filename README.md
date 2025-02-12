@@ -37,10 +37,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE-V2"><b>CourseMaker-V2</b></a></td>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE-V2/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/course-maker/Course-Maker-BE-V2?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE-V2/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/course-maker/Course-Maker-BE-V2?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/course-maker/Course-Maker-BE-V2/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/course-maker/Course-Maker-BE-V2?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/Elice-AI-Spark-Camp/AiShortForm-Back"><b>AiShortForm</b></a></td>
+      <td><a href="https://github.com/Elice-AI-Spark-Camp/AiShortForm-Back/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/Elice-AI-Spark-Camp/AiShortForm-Back?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/Elice-AI-Spark-Camp/AiShortForm-Back/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Elice-AI-Spark-Camp/AiShortForm-Back?style=flat&labelColor=343b41"></a></td>
+      <td><a href="https://github.com/Elice-AI-Spark-Camp/AiShortForm-Back/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Elice-AI-Spark-Camp/AiShortForm-Back?style=flat&labelColor=343b41"></a></td>
     </tr>
   </tbody>
    <tbody>
