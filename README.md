@@ -72,28 +72,10 @@
       <td><a href="https://github.com/MTVS-Last-Collaboration/Back-End/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/MTVS-Last-Collaboration/Back-End?style=flat&labelColor=343b41"></a></td>
     </tr>
     <tr>
-      <td><a href=https://github.com/yourfootmyfoot/Footlog-BackEnd target=_blank><b>FootLog</b></a></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></td>
-      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/yourfootmyfoot/Footlog-BackEnd/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/yourfootmyfoot/Footlog-BackEnd?style=flat&labelColor=343b41"></a></td>
-    </tr>
-    <tr>
       <td><a href=https://github.com/course-maker/Course-Maker-BE target=_blank><b>CourseMaker</b></a></td>
       <td><img alt="Contributors" src="https://img.shields.io/github/contributors/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
       <td><a href="https://github.com/course-maker/Course-Maker-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/course-maker/Course-Maker-BE?style=flat&labelColor=343b41"></a></td>
-    </tr>
-    <tr>
-      <td><a href=https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE target=_blank><b>VoiceTuner</b></a></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></td>
-      <td><a href="https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/MTVS-VoiceTuner/VoiceTuner-BackEnd-BE?style=flat&labelColor=343b41"></a></td>
-    </tr>
-    <tr>
-      <td><a href=https://github.com/Practice-i5/EatIT target=_blank><b>EatIT</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank></a></td>
-      <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Practice-i5/EatIT?style=flat&labelColor=343b41"></td>
-      <td><a href="https://github.com/Practice-i5/EatIT" target="_blank"><img alt="Create At" src="https://img.shields.io/github/created-at/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td>
-      <td><a href="https://github.com/Practice-i5/EatIT/commits" target="_blank"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/Practice-i5/EatIT?style=flat&labelColor=343b41"></a></td>
     </tr>
   </tbody>
 </table>
