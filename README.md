@@ -2,7 +2,7 @@
 # YachaTree 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=YachaTree.readme)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=YachaTree&theme=microsoft&locale=ko)](https://git.io/streak-stats)
-
+![YachaTree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YachaTree&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YachaTree&layout=compact&theme=graywhite)
 
 ## Bootcamp
 - Metaverse Academy(2024.06 ~ 2024.11)
