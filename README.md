@@ -61,7 +61,6 @@
   </tbody>
 </table>
 
-https://github.com/YachaTree/forplab
 
 ## History
 
