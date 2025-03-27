@@ -13,7 +13,7 @@
   
 |카테고리|기술 스택|
 |:---:|:---|
-|Language|![Java](https://img.shields.io/badge/Java-007396?style=flat)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)|
+|Language|![Java](https://img.shields.io/badge/Java-007396?style=flat)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white); ![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white)|
 |Framework|![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp; ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp; ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=black)&nbsp; ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)|
 |DataBase|![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)|
 |Cloud|![AWS ec2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)&nbsp; ![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)&nbsp; ![AWS RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)|
