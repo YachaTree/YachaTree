@@ -4,10 +4,6 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=YachaTree&theme=microsoft&locale=ko)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YachaTree&layout=compact&theme=graywhite)
 
-## Bootcamp
-- Metaverse Academy(2024.06 ~ 2024.11)
-
-
 ## Skills
 <div align="center">
   
